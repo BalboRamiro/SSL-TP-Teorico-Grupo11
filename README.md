@@ -1,10 +1,10 @@
 # SSL-TP-Teorico-Grupo11
 Lenguajes:
-C#
+C# y
 Java
 
 Integrantes:
-Ramiro Balbo
-Christian Zelaya
-Nicolas Pelullo
+Ramiro Balbo,
+Christian Zelaya,
+Nicolas Pelullo,
 Maximiliano Argañaraz
